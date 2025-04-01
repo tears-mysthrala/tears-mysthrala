@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 📊 Stats
 
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tears-Mysthrala&theme=tokyonight)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tears-Mysthrala&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tears-Mysthrala&theme=tokyonight)
+<!-- currently broken
+![GitHub Streak](https://streak-stats.demolab.com?user=tears-mysthrala&theme=tokyonight&date_format=j%20M%5B%20Y%5D) 
+-->
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tears-Mysthrala&theme=tokyonight)
 
 📜 Current learning progress
