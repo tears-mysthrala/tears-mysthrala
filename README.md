@@ -1,6 +1,6 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Tears-Mysthrala&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="Tears-Mysthrala" /> </p>
 
-## Tears Mysthrala
+## Tears Mysthrala <img align="right" src="https://komarev.com/ghpvc/?username=Tears-Mysthrala&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="Tears-Mysthrala" /> 
+
 
 ---
 
