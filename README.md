@@ -6,7 +6,7 @@
 
 Welcome to my workshop. You'll find memory forensics, tools for streams, and the Linux and Windows setups I use along the way. Some projects belong in a classroom, some on an OBS scene, and some on my own desktop.
 
-[Explore the projects](#on-the-workbench) · [Meet MKDL](https://github.com/Mysthrala-Kurogane-Defense-Labs) · [LinkedIn](https://www.linkedin.com/in/tears-mysthrala/) · [ORCID](https://orcid.org/0009-0009-5476-1562)
+[Explore the projects](https://github.com/tears-mysthrala?tab=repositories) · [Meet MKDL](https://github.com/Mysthrala-Kurogane-Defense-Labs) · [LinkedIn](https://www.linkedin.com/in/tears-mysthrala/) · [ORCID](https://orcid.org/0009-0009-5476-1562)
 
 *También trabajo en castellano. Euskaraz ere ulertzen dut.*
 
