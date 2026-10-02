@@ -4,7 +4,7 @@
 
 **Kaixo! I'm Kalista, also known as Tears Mysthrala.** · she/they · Elgoibar, Basque Country
 
-Welcome to my workshop. You'll find memory forensics, tools for streams, and the Linux and Windows setups I use along the way. Some projects belong in a classroom, some on an OBS scene, and some on my own desktop.
+Welcome to my workshop. Cybersecurity is part of the workbench: industrial systems through MKDL, memory forensics through Oroitz and the CTF labs. You'll also find tools for streams and the Linux and Windows setups I use along the way.
 
 [Explore the projects](https://github.com/tears-mysthrala?tab=repositories) · [Meet MKDL](https://github.com/Mysthrala-Kurogane-Defense-Labs) · [LinkedIn](https://www.linkedin.com/in/tears-mysthrala/) · [ORCID](https://orcid.org/0009-0009-5476-1562)
 
@@ -30,9 +30,17 @@ The **[CTF writeups](https://github.com/tears-mysthrala/ctf-writeups)** keep the
 
 **[PowerShell-profile](https://github.com/tears-mysthrala/PowerShell-profile)** and **[Dotfiles](https://github.com/tears-mysthrala/Dotfiles)** hold my everyday Windows and Linux shell environments.
 
-## The industrial side: MKDL
+## 🛡️ MKDL · Industrial cybersecurity
 
-I'm the founder of **[Mysthrala Kurogane Defense Labs](https://github.com/Mysthrala-Kurogane-Defense-Labs)**, where I work on practical industrial cybersecurity for small and micro companies in the Basque Country.
+![An industrial plant, a workstation and a controller connected inside a protective shield](assets/industrial-defense.svg)
+
+**Cybersecurity for the workshops and small companies that keep industry running.**
+
+I'm the founder of **[Mysthrala Kurogane Defense Labs](https://github.com/Mysthrala-Kurogane-Defense-Labs)**. Through MKDL, I work with small and micro industrial companies in Bajo Deba and the Basque Country on the practical questions behind OT security:
+
+- **What needs protecting?** Asset inventories and a scoped diagnosis of the industrial environment.
+- **Who can get in?** Access documentation and procedures that people can review.
+- **What changed, and what can we show?** Incident records, evidence preparation and agreed follow-up.
 
 **[Kurogane](https://github.com/Mysthrala-Kurogane-Defense-Labs/kurogane)** is the public doorway to that work: documentation, a preliminary SDK and synthetic labs. The commercial core remains private; each public repository explains its own status and scope.
 
