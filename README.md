@@ -1,30 +1,45 @@
-# Kalista — Tears Mysthrala
+# Tears' Workshop ✦
 
-**Founder / OT Cybersecurity Consultant** · she/they · Elgoibar, Basque Country
+![A violet night sky above a warmly lit workshop window](assets/workshop.svg)
 
-I work on industrial cybersecurity for small and micro industrial companies through [Mysthrala Kurogane Defense Labs (MKDL)](https://github.com/Mysthrala-Kurogane-Defense-Labs). My public projects cover DFIR education, Linux and Windows tooling, and software for streaming workflows.
+**Kaixo! I'm Kalista, also known as Tears Mysthrala.** · she/they · Elgoibar, Basque Country
 
-[MKDL: services and contact](https://mkdl.jp/) · [LinkedIn](https://www.linkedin.com/in/tears-mysthrala/) · [ORCID](https://orcid.org/0009-0009-5476-1562)
+Welcome to my workshop. You'll find memory forensics, tools for streams, and the Linux and Windows setups I use along the way. Some projects belong in a classroom, some on an OBS scene, and some on my own desktop.
+
+[Explore the projects](#on-the-workbench) · [Meet MKDL](https://github.com/Mysthrala-Kurogane-Defense-Labs) · [LinkedIn](https://www.linkedin.com/in/tears-mysthrala/) · [ORCID](https://orcid.org/0009-0009-5476-1562)
 
 *También trabajo en castellano. Euskaraz ere ulertzen dut.*
 
-## Selected work
+## On the workbench
 
-- **[Oroitz](https://github.com/tears-mysthrala/Oroitz)** — educational wrapper around Volatility 3 for teaching memory forensics, with CLI, TUI and GUI interfaces. Python; intended for learning and lab use.
-- **[Chat Overlay](https://github.com/tears-mysthrala/chat-overlay)** — Twitch and YouTube chat overlay for OBS, with a creator panel and media alerts. Elixir/OTP, Bandit and Mint; see the repository's [verification record](https://github.com/tears-mysthrala/chat-overlay/blob/main/docs/verification.md) for tested scope.
-- **[Chatterino YouTube chat](https://github.com/tears-mysthrala/chatterino-yt-chat)** — unofficial, read-only YouTube Live Chat viewer plugin for Chatterino. Related tools: [Kick viewer](https://github.com/tears-mysthrala/chatterino-kick-chat) and [local OBS overlay](https://github.com/tears-mysthrala/chatterino-multichat-overlay).
-- **[Fedora Sway + Quickshell](https://github.com/tears-mysthrala/fedora-sway-quickshell)** — personal Fedora development workstation with a Sway desktop, Quickshell UI, reversible installer and [VM screenshots](https://github.com/tears-mysthrala/fedora-sway-quickshell#observed-fedora-44-vm).
-- **[PowerShell-profile](https://github.com/tears-mysthrala/PowerShell-profile)** and **[Dotfiles](https://github.com/tears-mysthrala/Dotfiles)** — my modular Windows and Linux shell environments.
-- **[CTF writeups](https://github.com/tears-mysthrala/ctf-writeups)** — lab writeups with methodology, evidence and lessons learned.
+### 🧠 Memory, one artifact at a time
 
-## Industrial cybersecurity · MKDL
+**[Oroitz](https://github.com/tears-mysthrala/Oroitz)** brings Volatility 3 into an educational memory-forensics toolkit, with command-line, terminal and graphical interfaces. Built in Python for learning and lab work.
 
-MKDL focuses on practical OT cybersecurity for small industrial organizations: scoped diagnosis, asset and access documentation, evidence preparation, and agreed follow-up. [Kurogane](https://github.com/Mysthrala-Kurogane-Defense-Labs/kurogane) is the public entry point for the technology supporting that work, including a preliminary SDK and synthetic labs.
+The **[CTF writeups](https://github.com/tears-mysthrala/ctf-writeups)** keep the path to the answer: methodology, evidence and lessons from the lab.
 
-Most MKDL implementation work remains private. Public examples and lab results have their own scope; they do not establish production readiness or customer outcomes.
+### 💬 A place for chat on screen
 
-## Working principles
+**[Chat Overlay](https://github.com/tears-mysthrala/chat-overlay)** puts Twitch and YouTube chat in OBS, with a creator panel and media alerts. Under the hood: Elixir/OTP. Its [verification record](https://github.com/tears-mysthrala/chat-overlay/blob/main/docs/verification.md) shows the tested scope.
 
-Local-first tools, clear evidence, reversible changes and human-reviewed automation. Each repository's README describes its status and limits; experiments and archived coursework remain available as historical work.
+**[Chatterino YouTube chat](https://github.com/tears-mysthrala/chatterino-yt-chat)** is an unofficial, read-only YouTube Live Chat viewer for Chatterino. Nearby on the bench: a **[Kick viewer](https://github.com/tears-mysthrala/chatterino-kick-chat)** and a **[local OBS overlay](https://github.com/tears-mysthrala/chatterino-multichat-overlay)**.
 
-For consulting enquiries, use [MKDL's website](https://mkdl.jp/). For public, non-sensitive project feedback, use the relevant repository's issues; follow its security policy for vulnerability reports.
+### 🛠️ Making the desktop my own
+
+**[Fedora Sway + Quickshell](https://github.com/tears-mysthrala/fedora-sway-quickshell)** is my personal development workstation: a Sway desktop, Quickshell UI and a reversible installer. [Take a look at the VM screenshots](https://github.com/tears-mysthrala/fedora-sway-quickshell#observed-fedora-44-vm).
+
+**[PowerShell-profile](https://github.com/tears-mysthrala/PowerShell-profile)** and **[Dotfiles](https://github.com/tears-mysthrala/Dotfiles)** hold my everyday Windows and Linux shell environments.
+
+## The industrial side: MKDL
+
+I'm the founder of **[Mysthrala Kurogane Defense Labs](https://github.com/Mysthrala-Kurogane-Defense-Labs)**, where I work on practical industrial cybersecurity for small and micro companies in the Basque Country.
+
+**[Kurogane](https://github.com/Mysthrala-Kurogane-Defense-Labs/kurogane)** is the public doorway to that work: documentation, a preliminary SDK and synthetic labs. The commercial core remains private; each public repository explains its own status and scope.
+
+[Services and contact → mkdl.jp](https://mkdl.jp/)
+
+---
+
+Local-first tools, clear evidence, reversible changes and human-reviewed automation are the threads running through this workshop. Experiments and archived coursework live here too, with their context intact.
+
+Have a question or an idea for a project? Its issues are a good place to start. For security reports, use the repository's security policy and a private channel.
