@@ -1,39 +1,30 @@
 # Kalista — Tears Mysthrala
 
-**Founder / OT Cybersecurity Consultant** — she/they
+**Founder / OT Cybersecurity Consultant** · she/they · Elgoibar, Basque Country
 
-I work on the security of industrial environments: OT cybersecurity consulting for small and micro industrial companies through **Mysthrala Kurogane Defense Labs (MKDL)**, and personal projects around DFIR, memory analysis, and secure automation.
+I work on industrial cybersecurity for small and micro industrial companies through [Mysthrala Kurogane Defense Labs (MKDL)](https://github.com/Mysthrala-Kurogane-Defense-Labs). My public projects cover DFIR education, Linux and Windows tooling, and software for streaming workflows.
+
+[MKDL: services and contact](https://mkdl.jp/) · [LinkedIn](https://www.linkedin.com/in/tears-mysthrala/) · [ORCID](https://orcid.org/0009-0009-5476-1562)
 
 *También trabajo en castellano. Euskaraz ere ulertzen dut.*
 
-## What I care about
+## Selected work
 
-- **OT security** for small industrial organizations that don't have a security team.
-- **DFIR & memory forensics** — tooling and teaching materials that keep the analyst in charge.
-- **Secure automation** — systems that are auditable, reversible, and human-reviewed by design.
+- **[Oroitz](https://github.com/tears-mysthrala/Oroitz)** — educational wrapper around Volatility 3 for teaching memory forensics, with CLI, TUI and GUI interfaces. Python; intended for learning and lab use.
+- **[Chat Overlay](https://github.com/tears-mysthrala/chat-overlay)** — Twitch and YouTube chat overlay for OBS, with a creator panel and media alerts. Elixir/OTP, Bandit and Mint; see the repository's [verification record](https://github.com/tears-mysthrala/chat-overlay/blob/main/docs/verification.md) for tested scope.
+- **[Chatterino YouTube chat](https://github.com/tears-mysthrala/chatterino-yt-chat)** — unofficial, read-only YouTube Live Chat viewer plugin for Chatterino. Related tools: [Kick viewer](https://github.com/tears-mysthrala/chatterino-kick-chat) and [local OBS overlay](https://github.com/tears-mysthrala/chatterino-multichat-overlay).
+- **[Fedora Sway + Quickshell](https://github.com/tears-mysthrala/fedora-sway-quickshell)** — personal Fedora development workstation with a Sway desktop, Quickshell UI, reversible installer and [VM screenshots](https://github.com/tears-mysthrala/fedora-sway-quickshell#observed-fedora-44-vm).
+- **[PowerShell-profile](https://github.com/tears-mysthrala/PowerShell-profile)** and **[Dotfiles](https://github.com/tears-mysthrala/Dotfiles)** — my modular Windows and Linux shell environments.
+- **[CTF writeups](https://github.com/tears-mysthrala/ctf-writeups)** — lab writeups with methodology, evidence and lessons learned.
 
-Principles: local-first, privacy-respecting, auditable systems, human-reviewed automation. I don't claim what I can't demonstrate.
+## Industrial cybersecurity · MKDL
 
-## Selected projects
+MKDL focuses on practical OT cybersecurity for small industrial organizations: scoped diagnosis, asset and access documentation, evidence preparation, and agreed follow-up. [Kurogane](https://github.com/Mysthrala-Kurogane-Defense-Labs/kurogane) is the public entry point for the technology supporting that work, including a preliminary SDK and synthetic labs.
 
-| Project | What it is | Stack |
-|---|---|---|
-| [Oroitz](https://github.com/tears-mysthrala/Oroitz) | Educational wrapper around Volatility 3 for teaching memory analysis — *oroitz* means "memory" in Basque | Python, Volatility 3 |
-| [isard-webapp](https://github.com/tears-mysthrala/isard-webapp) | Simplified interface for everyday IsardVDI operations, aimed at non-technical users (unofficial) | Web |
-| [PowerShell-profile](https://github.com/tears-mysthrala/PowerShell-profile) | My modular, reproducible PowerShell 7 environment for Windows | PowerShell |
-| [Dotfiles](https://github.com/tears-mysthrala/Dotfiles) | Personal Linux dotfiles — shell, git, editor | Shell |
-| [omora](https://github.com/tears-mysthrala/omora) | Opinionated Fedora setup inspired by [Omarchy](https://omarchy.org) — headless first | Shell, Fedora |
+Most MKDL implementation work remains private. Public examples and lab results have their own scope; they do not establish production readiness or customer outcomes.
 
-## How this account is organized
+## Working principles
 
-- **Professional work** — consulting-related tooling and DFIR education projects.
-- **Personal tooling** — dotfiles, shell environments, start page.
-- **Experiments** — prototypes and proofs of concept, clearly marked as such.
-- **Coursework archive** — cybersecurity specialization assignments, archived and preserved as historical record.
+Local-first tools, clear evidence, reversible changes and human-reviewed automation. Each repository's README describes its status and limits; experiments and archived coursework remain available as historical work.
 
-Most of my professional work for MKDL happens in private repositories; what is public here is what I can show.
-
----
-
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tears-Mysthrala&theme=tokyonight)
-![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tears-Mysthrala&theme=tokyonight)
+For consulting enquiries, use [MKDL's website](https://mkdl.jp/). For public, non-sensitive project feedback, use the relevant repository's issues; follow its security policy for vulnerability reports.
